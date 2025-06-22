@@ -1,73 +1,64 @@
-# Welcome to your Lovable project
+# Maybelle House - Coming Soon
 
-## Project info
+Soft silhouettes for strong women.
 
-**URL**: https://lovable.dev/projects/a4a8f751-6cf8-4f1e-b37d-a43bc20f7b30
+## Project Overview
 
-## How can I edit this code?
+A beautiful coming soon page for Maybelle House, a fashion brand focused on sustainable, timeless design with perfect fit for every woman.
 
-There are several ways of editing your application.
+## Tech Stack
 
-**Use Lovable**
+- **React** - Frontend framework
+- **TypeScript** - Type safety
+- **Vite** - Build tool and development server
+- **Tailwind CSS** - Utility-first CSS framework
+- **Framer Motion** - Animation library
+- **shadcn/ui** - Component library
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a4a8f751-6cf8-4f1e-b37d-a43bc20f7b30) and start prompting.
+## Getting Started
 
-Changes made via Lovable will be committed automatically to this repo.
+### Prerequisites
 
-**Use your preferred IDE**
+- Node.js (v18 or higher)
+- npm or yarn
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Installation
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+4. Open [http://localhost:8080](http://localhost:8080) in your browser
 
-Follow these steps:
+## Features
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- Responsive design optimized for all devices
+- Smooth animations and transitions
+- Email signup functionality
+- Social media integration
+- Sustainable design focus
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## Build for Production
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+```bash
+npm run build
 ```
 
-**Edit a file directly in GitHub**
+## Deploy
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```bash
+npm run preview
+```
 
-**Use GitHub Codespaces**
+## Contact
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+For questions about this project, please reach out to the Maybelle House team.
 
-## What technologies are used for this project?
+---
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/a4a8f751-6cf8-4f1e-b37d-a43bc20f7b30) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+© 2024 Maybelle House. All rights reserved.
