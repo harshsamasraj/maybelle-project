@@ -1,4 +1,3 @@
-
 import type { Config } from "tailwindcss";
 
 export default {
@@ -129,6 +128,7 @@ export default {
 				'float': 'float 6s ease-in-out infinite'
 			},
 			fontFamily: {
+				'cinzel': ['Cinzel Decorative', 'serif'],
 				'serif': ['Playfair Display', 'serif'],
 			}
 		}
