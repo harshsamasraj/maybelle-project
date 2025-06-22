@@ -51,9 +51,6 @@ const Index = () => {
               <p className="text-white text-xs opacity-80 font-cinzel">
                 © 2024 Maybelle House. All rights reserved.
               </p>
-              <p className="text-white text-xs mt-1 opacity-70 font-cinzel">
-                Soft silhouettes for strong women.
-              </p>
             </div>
           </div>
         </footer>
